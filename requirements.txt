@@ -1,0 +1,19 @@
+tensorflow
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+dvc                  # for version control and  cicd pipeline
+notebook            # for jupyter notebook
+python-box==6.0.2   # for box plot
+pyYAML                  # for yaml file
+tqdm                     # for progress bar
+ensure==1.0.2            # for checking if the file exist
+joblib                   # for parallel processing
+types-pyYAML             # for type hinting
+scipy                    # for scientific computation
+Flask                    # for web app
+Flask-Cors              # for cross origin resource sharing
+            # for installing the package in editable mode
+

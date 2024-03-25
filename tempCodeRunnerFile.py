@@ -2,8 +2,12 @@ import os
 from pathlib import Path
 import logging
 
+# tells what is happening when you run the code
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
-
+ 
+'''
+Generic template for creating end to end project
+'''
 
 project_name = "cnnClassifier"
 
